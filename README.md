@@ -1,6 +1,6 @@
 # Disease Detection System(DDS)
 
-## Data Source
+## Data Source: Kaggle 
 - [Pima Indians Diabetes Database](https://www.kaggle.com/uciml/pima-indians-diabetes-database)
 - [Chronic KIdney Disease dataset](https://www.kaggle.com/mansoordaku/ckdisease)
 - [Hepatitis](https://www.kaggle.com/harinir/hepatitis)
